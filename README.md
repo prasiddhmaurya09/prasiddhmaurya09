@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 BCA Student
-- 💻 Interested in Software Development and Cyber Security
+- 💻 Interested in Frontend Development
 - 📚 Preparing for NIMCET and MCA Entrance Exams
 - 🌱 Currently learning Java, Python, SQL, and Data Structures
 - 🎯 Goal: Become a Software Engineer at top tech companies
